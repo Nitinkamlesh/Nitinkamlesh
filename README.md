@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitin Kamlesh
 
-<!--
-**Nitinkamlesh/Nitinkamlesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Who am I?
+- [ ] Gen AI Developer focused on LLMs, AI agents, and automation
+- [ ] Passionate about building intelligent applications & modern UI experiences
+- [ ] Constant learner exploring agentic workflows, RAG, and AI-powered products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 What am I currently working on?
+- [ ] Building AI-powered applications and agent-based systems
+- [ ] Working on real-world Gen AI projects (LLM integration, automation)
+- [ ] Creating advanced portfolio and personal AI tools
+- [ ] Experimenting with RAG, embeddings, and model fine-tuning
+
+---
+
+## 🔹 Tools & Technologies I use
+- [ ] **Languages:**  Java, Python, c/c++   
+- [ ] **AI:** OpenAI, Spring-Ai, HuggingFace, Agentic systems  
+- [ ] **Frontend:** React, Vite, TailwindCSS, Next.js  
+- [ ] **Backend:** Node.js, Express, Spring Boot  
+- [ ] **Databases:** MongoDB, PostgreSQL, MySQL  
+- [ ] **Dev Tools:** Git, GitHub, VS Code, Postman  
+- [ ] **Cloud:** Google Cloud, Vercel, Netlify  
+
+---
+
+## 🔹 How to reach me
+- [ ] **Email:** kamleshnitin123@gmail.com 
+- [ ] **LinkedIn:** www.linkedin.com/in/nitin-kamlesh-bb3403260 
+- [ ] **GitHub:** (You’re already here 😊)
+
+---
+
+### ⭐ Thanks for visiting my profile!  
+Feel free to check out my repositories and connect with me for AI or development collaborations.
