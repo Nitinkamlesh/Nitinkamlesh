@@ -15,14 +15,7 @@
 
 ---
 
-## 🔹 Tools & Technologies I use
-- [ ] **Languages:**  Java, Python, c/c++   
-- [ ] **AI:** OpenAI, Spring-Ai, HuggingFace, Agentic systems  
-- [ ] **Frontend:** React, Vite, TailwindCSS, Next.js  
-- [ ] **Backend:** Node.js, Express, Spring Boot  
-- [ ] **Databases:** MongoDB, PostgreSQL, MySQL  
-- [ ] **Dev Tools:** Git, GitHub, VS Code, Postman  
-- [ ] **Cloud:** Google Cloud, Vercel, Netlify  
+
 
 ---
 
